@@ -1,4 +1,4 @@
-package br.usjt.resources;
+package br.usjt.previsoes.resources;
 
 import java.net.URI;
 import java.util.List;
